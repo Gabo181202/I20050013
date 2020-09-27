@@ -28,6 +28,8 @@ namespace ConsoleApp1
 
             Console.Write("Resultado "+s);
 
+            Console.WriteLine("Hello");
+            
             Console.ReadKey();
         }
     }
